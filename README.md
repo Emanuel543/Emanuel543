@@ -8,9 +8,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Emanuel543/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Emanuel543/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+  - [Configuring Active Directory within Azure VMs](https://github.com/Emanuel543/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Emanuel543/azure-network-protocols)
+  - [How to create a Virtual Machine and how to log into it Practical exam](https://github.com/Emanuel543/Practical-Exam)
 <h2>🤳Connect with me:</h2>
 
 
